@@ -13,6 +13,8 @@ To add a manager to this swarm, run 'docker swarm join-token manager' and follow
 To add a manager to this swarm, run the following command:
 docker swarm join --token SWMTKN-1-0caz9mp0575rmsjieairm9xcjctjqfy577yq87oysfx00kc5va-btahfoz1go19js5aa6pxn0il5 192.168.1.198:2377
 
+To add a manager to this swarm, run the following command:
+docker swarm join --token SWMTKN-1-0caz9mp0575rmsjieairm9xcjctjqfy577yq87oysfx00kc5va-btahfoz1go19js5aa6pxn0il5 192.168.1.198:2377
 
 
 
