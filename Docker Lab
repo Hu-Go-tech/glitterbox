@@ -4,13 +4,13 @@ IP addresses :
 
 TOKENs :
 
+To add a worker to this swarm, run the following command:
+
+docker swarm join --token SWMTKN-1-0qpaxjw9wu8zbxvyetawsvmvmqbvdlrlbvn8ddyx4o6eblncfl-b3f2i7czvhm2lbwh6186g8lu9 192.168.1.198:2377
+
 To add a manager to this swarm, run the following command:
 
-docker swarm join --token SWMTKN-1-044b7iiznt49vrqu91awdqz90kuvdrikqe62lfvzesddwv5s92-45y3tstkk7cf9wh2wkfg41qzu 192.168.1.198:2377
-
-to add a worker to the cluster :
-
-docker swarm join --token SWMTKN-1-044b7iiznt49vrqu91awdqz90kuvdrikqe62lfvzesddwv5s92-51azxzh9e5ngxwh8gf2dhxheo 192.168.1.198:2377
+docker swarm join --token SWMTKN-1-0qpaxjw9wu8zbxvyetawsvmvmqbvdlrlbvn8ddyx4o6eblncfl-4yrcysg7tzsi7pauhv918kq5w 192.168.1.198:2377
 
 
 
