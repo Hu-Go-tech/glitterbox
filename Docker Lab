@@ -3,13 +3,8 @@ Begin of file
 IP addresses : 
 
 TOKENs :
-warm initialized: current node (31vmtmsvl70nk0xqb16k5k0s7) is now a manager.
 
-To add a worker to this swarm, run the following command:
-docker swarm join --token SWMTKN-1-0caz9mp0575rmsjieairm9xcjctjqfy577yq87oysfx00kc5va-0e3kdydkolyu9tvf29j8vrmmp 192.168.1.198:2377
-
-To add a manager to this swarm, run the following command:
-docker swarm join --token SWMTKN-1-0caz9mp0575rmsjieairm9xcjctjqfy577yq87oysfx00kc5va-btahfoz1go19js5aa6pxn0il5 192.168.1.198:2377
+docker swarm join --token SWMTKN-1-044b7iiznt49vrqu91awdqz90kuvdrikqe62lfvzesddwv5s92-51azxzh9e5ngxwh8gf2dhxheo 192.168.1.198:2377
 
 
 
